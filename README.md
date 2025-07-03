@@ -6,7 +6,7 @@ Este projeto tem como finalidade explorar o comportamento de popularidade dos fi
 
 ## Dataset Utilizado
 
-- **Fonte:** [Kaggle - Letterbox Dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/sahilislam007/letterbox-movie-classification-dataset)
+- **Fonte:** [Kaggle - Letterbox Dataset](https://www.kaggle.com/datasets/sahilislam007/letterbox-movie-classification-dataset)
 - **Registros:** 10.002 filmes
 - **Atributos principais:**
   - Gênero
